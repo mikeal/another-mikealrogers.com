@@ -1,5 +1,3 @@
 # Mikeal Rogers
 
-
-
-
+<Social />
