@@ -1,0 +1,16 @@
+{
+  "name": "mikealrogers.com",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "now-build": "vuepress build site"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "now": "^13.1.2",
+    "vuepress": "^1.0.0-alpha.32"
+  }
+}
