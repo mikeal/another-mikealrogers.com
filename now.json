@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "alias": ["mikealrogers.com"],
   "builds": [
     { "src": "package.json",
       "use": "@now/static-build",
