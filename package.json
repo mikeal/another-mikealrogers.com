@@ -10,7 +10,8 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
   "license": "Apache-2.0",
   "dependencies": {
+    "@vuepress/plugin-blog": "^1.0.0-alpha.0",
     "now": "^13.1.2",
-    "vuepress": "^1.0.0-alpha.32"
+    "vuepress": "1.0.0-alpha.32"
   }
 }
