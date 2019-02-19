@@ -12,6 +12,6 @@
   "dependencies": {
     "@vuepress/plugin-blog": "^1.0.0-alpha.0",
     "now": "^13.1.2",
-    "vuepress": "1.0.0-alpha.32"
+    "vuepress": "^1.0.0-alpha.39"
   }
 }
