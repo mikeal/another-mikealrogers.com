@@ -1,7 +1,7 @@
 <template>
   <div id="chart">
     <ClientOnly v-if="series">
-      <apexchart type=area height=350 :options="chartOptions" :series="series" />
+      <apexchart type=line height=350 :options="chartOptions" :series="series" />
     </ClientOnly>
   </div>
 </template>
@@ -33,7 +33,8 @@ export default {
     chartOptions () {
       let options = {
         chart: {
-          stacked: true,
+          type: 'line',
+          // stacked: true,
         },
         colors: ['#008FFB', '#00E396', '#CED4DC'],
         dataLabels: {
@@ -65,7 +66,7 @@ export default {
     Vue.component('apexchart', VueApexCharts)
     let csv = await fetch(this.$props.csv).then(resp => resp.text())
     let { data } = await parse(csv, {header: true})
-    let series = createSeries(data, 12)
+    let series = createSeries(data, 25)
     this.$data.series = series
   }
 }

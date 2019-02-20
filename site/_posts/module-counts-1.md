@@ -6,6 +6,6 @@ date: 02-20-18 (mm-dd-yy)
 
 First sentence.
 
-<Chart csv="/2018-module-counts/quarterly-additions.csv" />
+<TreeMap csv="/2018-module-counts/quarterly-additions.csv" />
 
 After chart.
