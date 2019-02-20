@@ -22,3 +22,5 @@ Specifically, a vision of "The Web" in which application data is decentralized u
 * Evangelism / Developer Relations
 * Conferences
 
+<BlogRecent />
+

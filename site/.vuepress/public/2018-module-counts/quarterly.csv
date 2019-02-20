@@ -1,0 +1,911 @@
+QUARTER,PKG,COUNT
+2010 Q2,Bower (JS),0
+2010 Q2,Clojars (Clojure),0
+2010 Q2,CPAN,17724
+2010 Q2,CPAN (search),0
+2010 Q2,CRAN (R),0
+2010 Q2,Crates.io (Rust),0
+2010 Q2,Crystal Shards,0
+2010 Q2,Drupal (php),0
+2010 Q2,DUB (dlang),0
+2010 Q2,GoDoc (Go),0
+2010 Q2,Gopm (go),0
+2010 Q2,Hackage (Haskell),0
+2010 Q2,Hex.pm (Elixir/Erlang),0
+2010 Q2,Julia,0
+2010 Q2,LuaRocks (Lua),0
+2010 Q2,Maven Central (Java),0
+2010 Q2,MELPA (Emacs),0
+2010 Q2,Nimble (Nim),0
+2010 Q2,npm (node.js),0
+2010 Q2,nuget (.NET),0
+2010 Q2,Packagist (PHP),0
+2010 Q2,Pear (PHP),0
+2010 Q2,Perl 6 Ecosystem (perl 6),0
+2010 Q2,PyPI,9444
+2010 Q2,Rubygems.org,11755
+2010 Q2,Vim Scripts,0
+2010 Q3,Bower (JS),0
+2010 Q3,Clojars (Clojure),0
+2010 Q3,CPAN,17870
+2010 Q3,CPAN (search),0
+2010 Q3,CRAN (R),0
+2010 Q3,Crates.io (Rust),0
+2010 Q3,Crystal Shards,0
+2010 Q3,Drupal (php),0
+2010 Q3,DUB (dlang),0
+2010 Q3,GoDoc (Go),0
+2010 Q3,Gopm (go),0
+2010 Q3,Hackage (Haskell),0
+2010 Q3,Hex.pm (Elixir/Erlang),0
+2010 Q3,Julia,0
+2010 Q3,LuaRocks (Lua),0
+2010 Q3,Maven Central (Java),0
+2010 Q3,MELPA (Emacs),0
+2010 Q3,Nimble (Nim),0
+2010 Q3,npm (node.js),0
+2010 Q3,nuget (.NET),0
+2010 Q3,Packagist (PHP),0
+2010 Q3,Pear (PHP),0
+2010 Q3,Perl 6 Ecosystem (perl 6),0
+2010 Q3,PyPI,10208
+2010 Q3,Rubygems.org,13602
+2010 Q3,Vim Scripts,0
+2010 Q4,Bower (JS),0
+2010 Q4,Clojars (Clojure),0
+2010 Q4,CPAN,17870
+2010 Q4,CPAN (search),0
+2010 Q4,CRAN (R),0
+2010 Q4,Crates.io (Rust),0
+2010 Q4,Crystal Shards,0
+2010 Q4,Drupal (php),0
+2010 Q4,DUB (dlang),0
+2010 Q4,GoDoc (Go),0
+2010 Q4,Gopm (go),0
+2010 Q4,Hackage (Haskell),0
+2010 Q4,Hex.pm (Elixir/Erlang),0
+2010 Q4,Julia,0
+2010 Q4,LuaRocks (Lua),0
+2010 Q4,Maven Central (Java),0
+2010 Q4,MELPA (Emacs),0
+2010 Q4,Nimble (Nim),0
+2010 Q4,npm (node.js),0
+2010 Q4,nuget (.NET),0
+2010 Q4,Packagist (PHP),0
+2010 Q4,Pear (PHP),0
+2010 Q4,Perl 6 Ecosystem (perl 6),0
+2010 Q4,PyPI,10208
+2010 Q4,Rubygems.org,13602
+2010 Q4,Vim Scripts,0
+2011 Q1,Bower (JS),0
+2011 Q1,Clojars (Clojure),0
+2011 Q1,CPAN,19062
+2011 Q1,CPAN (search),0
+2011 Q1,CRAN (R),0
+2011 Q1,Crates.io (Rust),0
+2011 Q1,Crystal Shards,0
+2011 Q1,Drupal (php),0
+2011 Q1,DUB (dlang),0
+2011 Q1,GoDoc (Go),0
+2011 Q1,Gopm (go),0
+2011 Q1,Hackage (Haskell),0
+2011 Q1,Hex.pm (Elixir/Erlang),0
+2011 Q1,Julia,0
+2011 Q1,LuaRocks (Lua),0
+2011 Q1,Maven Central (Java),0
+2011 Q1,MELPA (Emacs),0
+2011 Q1,Nimble (Nim),0
+2011 Q1,npm (node.js),0
+2011 Q1,nuget (.NET),0
+2011 Q1,Packagist (PHP),0
+2011 Q1,Pear (PHP),562
+2011 Q1,Perl 6 Ecosystem (perl 6),0
+2011 Q1,PyPI,12639
+2011 Q1,Rubygems.org,19217
+2011 Q1,Vim Scripts,0
+2011 Q2,Bower (JS),0
+2011 Q2,Clojars (Clojure),0
+2011 Q2,CPAN,19558
+2011 Q2,CPAN (search),22314
+2011 Q2,CRAN (R),0
+2011 Q2,Crates.io (Rust),0
+2011 Q2,Crystal Shards,0
+2011 Q2,Drupal (php),0
+2011 Q2,DUB (dlang),0
+2011 Q2,GoDoc (Go),0
+2011 Q2,Gopm (go),0
+2011 Q2,Hackage (Haskell),0
+2011 Q2,Hex.pm (Elixir/Erlang),0
+2011 Q2,Julia,0
+2011 Q2,LuaRocks (Lua),0
+2011 Q2,Maven Central (Java),0
+2011 Q2,MELPA (Emacs),0
+2011 Q2,Nimble (Nim),0
+2011 Q2,npm (node.js),0
+2011 Q2,nuget (.NET),0
+2011 Q2,Packagist (PHP),0
+2011 Q2,Pear (PHP),568
+2011 Q2,Perl 6 Ecosystem (perl 6),0
+2011 Q2,PyPI,13972
+2011 Q2,Rubygems.org,22361
+2011 Q2,Vim Scripts,0
+2011 Q3,Bower (JS),0
+2011 Q3,Clojars (Clojure),0
+2011 Q3,CPAN,22888
+2011 Q3,CPAN (search),22889
+2011 Q3,CRAN (R),3107
+2011 Q3,Crates.io (Rust),0
+2011 Q3,Crystal Shards,0
+2011 Q3,Drupal (php),0
+2011 Q3,DUB (dlang),0
+2011 Q3,GoDoc (Go),0
+2011 Q3,Gopm (go),0
+2011 Q3,Hackage (Haskell),3085
+2011 Q3,Hex.pm (Elixir/Erlang),0
+2011 Q3,Julia,0
+2011 Q3,LuaRocks (Lua),0
+2011 Q3,Maven Central (Java),0
+2011 Q3,MELPA (Emacs),0
+2011 Q3,Nimble (Nim),0
+2011 Q3,npm (node.js),0
+2011 Q3,nuget (.NET),0
+2011 Q3,Packagist (PHP),0
+2011 Q3,Pear (PHP),569
+2011 Q3,Perl 6 Ecosystem (perl 6),0
+2011 Q3,PyPI,15522
+2011 Q3,Rubygems.org,25612
+2011 Q3,Vim Scripts,0
+2011 Q4,Bower (JS),0
+2011 Q4,Clojars (Clojure),0
+2011 Q4,CPAN,23453
+2011 Q4,CPAN (search),23453
+2011 Q4,CRAN (R),3315
+2011 Q4,Crates.io (Rust),0
+2011 Q4,Crystal Shards,0
+2011 Q4,Drupal (php),0
+2011 Q4,DUB (dlang),0
+2011 Q4,GoDoc (Go),0
+2011 Q4,Gopm (go),0
+2011 Q4,Hackage (Haskell),3339
+2011 Q4,Hex.pm (Elixir/Erlang),0
+2011 Q4,Julia,0
+2011 Q4,LuaRocks (Lua),0
+2011 Q4,Maven Central (Java),0
+2011 Q4,MELPA (Emacs),0
+2011 Q4,Nimble (Nim),0
+2011 Q4,npm (node.js),0
+2011 Q4,nuget (.NET),0
+2011 Q4,Packagist (PHP),0
+2011 Q4,Pear (PHP),570
+2011 Q4,Perl 6 Ecosystem (perl 6),0
+2011 Q4,PyPI,16903
+2011 Q4,Rubygems.org,28938
+2011 Q4,Vim Scripts,0
+2012 Q1,Bower (JS),0
+2012 Q1,Clojars (Clojure),0
+2012 Q1,CPAN,24012
+2012 Q1,CPAN (search),24012
+2012 Q1,CRAN (R),3523
+2012 Q1,Crates.io (Rust),0
+2012 Q1,Crystal Shards,0
+2012 Q1,Drupal (php),0
+2012 Q1,DUB (dlang),0
+2012 Q1,GoDoc (Go),0
+2012 Q1,Gopm (go),0
+2012 Q1,Hackage (Haskell),3597
+2012 Q1,Hex.pm (Elixir/Erlang),0
+2012 Q1,Julia,0
+2012 Q1,LuaRocks (Lua),0
+2012 Q1,Maven Central (Java),0
+2012 Q1,MELPA (Emacs),0
+2012 Q1,Nimble (Nim),0
+2012 Q1,npm (node.js),5985
+2012 Q1,nuget (.NET),0
+2012 Q1,Packagist (PHP),0
+2012 Q1,Pear (PHP),573
+2012 Q1,Perl 6 Ecosystem (perl 6),0
+2012 Q1,PyPI,18291
+2012 Q1,Rubygems.org,32291
+2012 Q1,Vim Scripts,0
+2012 Q2,Bower (JS),0
+2012 Q2,Clojars (Clojure),0
+2012 Q2,CPAN,24562
+2012 Q2,CPAN (search),24562
+2012 Q2,CRAN (R),3713
+2012 Q2,Crates.io (Rust),0
+2012 Q2,Crystal Shards,0
+2012 Q2,Drupal (php),0
+2012 Q2,DUB (dlang),0
+2012 Q2,GoDoc (Go),0
+2012 Q2,Gopm (go),0
+2012 Q2,Hackage (Haskell),3861
+2012 Q2,Hex.pm (Elixir/Erlang),0
+2012 Q2,Julia,0
+2012 Q2,LuaRocks (Lua),0
+2012 Q2,Maven Central (Java),0
+2012 Q2,MELPA (Emacs),0
+2012 Q2,Nimble (Nim),0
+2012 Q2,npm (node.js),8415
+2012 Q2,nuget (.NET),5294
+2012 Q2,Packagist (PHP),0
+2012 Q2,Pear (PHP),584
+2012 Q2,Perl 6 Ecosystem (perl 6),0
+2012 Q2,PyPI,20180
+2012 Q2,Rubygems.org,36561
+2012 Q2,Vim Scripts,0
+2012 Q3,Bower (JS),0
+2012 Q3,Clojars (Clojure),0
+2012 Q3,CPAN,25153
+2012 Q3,CPAN (search),25153
+2012 Q3,CRAN (R),3902
+2012 Q3,Crates.io (Rust),0
+2012 Q3,Crystal Shards,0
+2012 Q3,Drupal (php),0
+2012 Q3,DUB (dlang),0
+2012 Q3,GoDoc (Go),0
+2012 Q3,Gopm (go),0
+2012 Q3,Hackage (Haskell),4097
+2012 Q3,Hex.pm (Elixir/Erlang),0
+2012 Q3,Julia,0
+2012 Q3,LuaRocks (Lua),0
+2012 Q3,Maven Central (Java),0
+2012 Q3,MELPA (Emacs),0
+2012 Q3,Nimble (Nim),0
+2012 Q3,npm (node.js),11499
+2012 Q3,nuget (.NET),6509
+2012 Q3,Packagist (PHP),0
+2012 Q3,Pear (PHP),588
+2012 Q3,Perl 6 Ecosystem (perl 6),0
+2012 Q3,PyPI,22042
+2012 Q3,Rubygems.org,40832
+2012 Q3,Vim Scripts,0
+2012 Q4,Bower (JS),0
+2012 Q4,Clojars (Clojure),0
+2012 Q4,CPAN,25785
+2012 Q4,CPAN (search),25786
+2012 Q4,CRAN (R),4064
+2012 Q4,Crates.io (Rust),0
+2012 Q4,Crystal Shards,0
+2012 Q4,Drupal (php),0
+2012 Q4,DUB (dlang),0
+2012 Q4,GoDoc (Go),0
+2012 Q4,Gopm (go),0
+2012 Q4,Hackage (Haskell),4331
+2012 Q4,Hex.pm (Elixir/Erlang),0
+2012 Q4,Julia,0
+2012 Q4,LuaRocks (Lua),0
+2012 Q4,Maven Central (Java),0
+2012 Q4,MELPA (Emacs),0
+2012 Q4,Nimble (Nim),0
+2012 Q4,npm (node.js),15335
+2012 Q4,nuget (.NET),7997
+2012 Q4,Packagist (PHP),0
+2012 Q4,Pear (PHP),588
+2012 Q4,Perl 6 Ecosystem (perl 6),0
+2012 Q4,PyPI,24343
+2012 Q4,Rubygems.org,44826
+2012 Q4,Vim Scripts,0
+2013 Q1,Bower (JS),0
+2013 Q1,Clojars (Clojure),5062
+2013 Q1,CPAN,26513
+2013 Q1,CPAN (search),26513
+2013 Q1,CRAN (R),4204
+2013 Q1,Crates.io (Rust),0
+2013 Q1,Crystal Shards,0
+2013 Q1,Drupal (php),0
+2013 Q1,DUB (dlang),0
+2013 Q1,GoDoc (Go),0
+2013 Q1,Gopm (go),0
+2013 Q1,Hackage (Haskell),4604
+2013 Q1,Hex.pm (Elixir/Erlang),0
+2013 Q1,Julia,0
+2013 Q1,LuaRocks (Lua),0
+2013 Q1,Maven Central (Java),0
+2013 Q1,MELPA (Emacs),0
+2013 Q1,Nimble (Nim),0
+2013 Q1,npm (node.js),19984
+2013 Q1,nuget (.NET),9450
+2013 Q1,Packagist (PHP),0
+2013 Q1,Pear (PHP),590
+2013 Q1,Perl 6 Ecosystem (perl 6),0
+2013 Q1,PyPI,26630
+2013 Q1,Rubygems.org,49135
+2013 Q1,Vim Scripts,0
+2013 Q2,Bower (JS),0
+2013 Q2,Clojars (Clojure),5864
+2013 Q2,CPAN,27190
+2013 Q2,CPAN (search),27190
+2013 Q2,CRAN (R),4414
+2013 Q2,Crates.io (Rust),0
+2013 Q2,Crystal Shards,0
+2013 Q2,Drupal (php),0
+2013 Q2,DUB (dlang),0
+2013 Q2,GoDoc (Go),0
+2013 Q2,Gopm (go),0
+2013 Q2,Hackage (Haskell),4837
+2013 Q2,Hex.pm (Elixir/Erlang),0
+2013 Q2,Julia,0
+2013 Q2,LuaRocks (Lua),0
+2013 Q2,Maven Central (Java),55805
+2013 Q2,MELPA (Emacs),0
+2013 Q2,Nimble (Nim),0
+2013 Q2,npm (node.js),26400
+2013 Q2,nuget (.NET),11429
+2013 Q2,Packagist (PHP),9170
+2013 Q2,Pear (PHP),595
+2013 Q2,Perl 6 Ecosystem (perl 6),0
+2013 Q2,PyPI,29489
+2013 Q2,Rubygems.org,53944
+2013 Q2,Vim Scripts,0
+2013 Q3,Bower (JS),0
+2013 Q3,Clojars (Clojure),6590
+2013 Q3,CPAN,27844
+2013 Q3,CPAN (search),27844
+2013 Q3,CRAN (R),4660
+2013 Q3,Crates.io (Rust),0
+2013 Q3,Crystal Shards,0
+2013 Q3,Drupal (php),0
+2013 Q3,DUB (dlang),0
+2013 Q3,GoDoc (Go),0
+2013 Q3,Gopm (go),0
+2013 Q3,Hackage (Haskell),5129
+2013 Q3,Hex.pm (Elixir/Erlang),0
+2013 Q3,Julia,0
+2013 Q3,LuaRocks (Lua),0
+2013 Q3,Maven Central (Java),60576
+2013 Q3,MELPA (Emacs),0
+2013 Q3,Nimble (Nim),0
+2013 Q3,npm (node.js),33761
+2013 Q3,nuget (.NET),13238
+2013 Q3,Packagist (PHP),12613
+2013 Q3,Pear (PHP),595
+2013 Q3,Perl 6 Ecosystem (perl 6),0
+2013 Q3,PyPI,32155
+2013 Q3,Rubygems.org,58783
+2013 Q3,Vim Scripts,0
+2013 Q4,Bower (JS),0
+2013 Q4,Clojars (Clojure),7283
+2013 Q4,CPAN,28415
+2013 Q4,CPAN (search),28415
+2013 Q4,CRAN (R),4865
+2013 Q4,Crates.io (Rust),0
+2013 Q4,Crystal Shards,0
+2013 Q4,Drupal (php),0
+2013 Q4,DUB (dlang),0
+2013 Q4,GoDoc (Go),0
+2013 Q4,Gopm (go),0
+2013 Q4,Hackage (Haskell),5383
+2013 Q4,Hex.pm (Elixir/Erlang),0
+2013 Q4,Julia,0
+2013 Q4,LuaRocks (Lua),0
+2013 Q4,Maven Central (Java),64585
+2013 Q4,MELPA (Emacs),0
+2013 Q4,Nimble (Nim),0
+2013 Q4,npm (node.js),42510
+2013 Q4,nuget (.NET),15494
+2013 Q4,Packagist (PHP),16671
+2013 Q4,Pear (PHP),595
+2013 Q4,Perl 6 Ecosystem (perl 6),0
+2013 Q4,PyPI,35116
+2013 Q4,Rubygems.org,63412
+2013 Q4,Vim Scripts,0
+2014 Q1,Bower (JS),0
+2014 Q1,Clojars (Clojure),7972
+2014 Q1,CPAN,28909
+2014 Q1,CPAN (search),28909
+2014 Q1,CRAN (R),5067
+2014 Q1,Crates.io (Rust),0
+2014 Q1,Crystal Shards,0
+2014 Q1,Drupal (php),0
+2014 Q1,DUB (dlang),0
+2014 Q1,GoDoc (Go),0
+2014 Q1,Gopm (go),0
+2014 Q1,Hackage (Haskell),5673
+2014 Q1,Hex.pm (Elixir/Erlang),0
+2014 Q1,Julia,0
+2014 Q1,LuaRocks (Lua),0
+2014 Q1,Maven Central (Java),69087
+2014 Q1,MELPA (Emacs),0
+2014 Q1,Nimble (Nim),0
+2014 Q1,npm (node.js),52888
+2014 Q1,nuget (.NET),17653
+2014 Q1,Packagist (PHP),21389
+2014 Q1,Pear (PHP),595
+2014 Q1,Perl 6 Ecosystem (perl 6),0
+2014 Q1,PyPI,38376
+2014 Q1,Rubygems.org,68210
+2014 Q1,Vim Scripts,0
+2014 Q2,Bower (JS),0
+2014 Q2,Clojars (Clojure),8777
+2014 Q2,CPAN,29298
+2014 Q2,CPAN (search),29298
+2014 Q2,CRAN (R),5360
+2014 Q2,Crates.io (Rust),0
+2014 Q2,Crystal Shards,0
+2014 Q2,Drupal (php),0
+2014 Q2,DUB (dlang),0
+2014 Q2,GoDoc (Go),0
+2014 Q2,Gopm (go),0
+2014 Q2,Hackage (Haskell),6238
+2014 Q2,Hex.pm (Elixir/Erlang),0
+2014 Q2,Julia,0
+2014 Q2,LuaRocks (Lua),0
+2014 Q2,Maven Central (Java),74161
+2014 Q2,MELPA (Emacs),1725
+2014 Q2,Nimble (Nim),0
+2014 Q2,npm (node.js),66670
+2014 Q2,nuget (.NET),20303
+2014 Q2,Packagist (PHP),26953
+2014 Q2,Pear (PHP),595
+2014 Q2,Perl 6 Ecosystem (perl 6),0
+2014 Q2,PyPI,41771
+2014 Q2,Rubygems.org,73020
+2014 Q2,Vim Scripts,0
+2014 Q3,Bower (JS),0
+2014 Q3,Clojars (Clojure),9601
+2014 Q3,CPAN,29856
+2014 Q3,CPAN (search),29853
+2014 Q3,CRAN (R),5681
+2014 Q3,Crates.io (Rust),0
+2014 Q3,Crystal Shards,0
+2014 Q3,Drupal (php),0
+2014 Q3,DUB (dlang),0
+2014 Q3,GoDoc (Go),27851
+2014 Q3,Gopm (go),0
+2014 Q3,Hackage (Haskell),6611
+2014 Q3,Hex.pm (Elixir/Erlang),0
+2014 Q3,Julia,0
+2014 Q3,LuaRocks (Lua),0
+2014 Q3,Maven Central (Java),80962
+2014 Q3,MELPA (Emacs),1870
+2014 Q3,Nimble (Nim),0
+2014 Q3,npm (node.js),80970
+2014 Q3,nuget (.NET),24199
+2014 Q3,Packagist (PHP),32907
+2014 Q3,Pear (PHP),598
+2014 Q3,Perl 6 Ecosystem (perl 6),0
+2014 Q3,PyPI,45478
+2014 Q3,Rubygems.org,77811
+2014 Q3,Vim Scripts,0
+2014 Q4,Bower (JS),20034
+2014 Q4,Clojars (Clojure),10462
+2014 Q4,CPAN,30450
+2014 Q4,CPAN (search),30450
+2014 Q4,CRAN (R),5899
+2014 Q4,Crates.io (Rust),0
+2014 Q4,Crystal Shards,0
+2014 Q4,Drupal (php),0
+2014 Q4,DUB (dlang),0
+2014 Q4,GoDoc (Go),38262
+2014 Q4,Gopm (go),0
+2014 Q4,Hackage (Haskell),6983
+2014 Q4,Hex.pm (Elixir/Erlang),205
+2014 Q4,Julia,0
+2014 Q4,LuaRocks (Lua),0
+2014 Q4,Maven Central (Java),87706
+2014 Q4,MELPA (Emacs),2006
+2014 Q4,Nimble (Nim),0
+2014 Q4,npm (node.js),97263
+2014 Q4,nuget (.NET),27317
+2014 Q4,Packagist (PHP),39303
+2014 Q4,Pear (PHP),598
+2014 Q4,Perl 6 Ecosystem (perl 6),0
+2014 Q4,PyPI,49486
+2014 Q4,Rubygems.org,89271
+2014 Q4,Vim Scripts,0
+2015 Q1,Bower (JS),24804
+2015 Q1,Clojars (Clojure),11256
+2015 Q1,CPAN,31050
+2015 Q1,CPAN (search),31050
+2015 Q1,CRAN (R),6142
+2015 Q1,Crates.io (Rust),652
+2015 Q1,Crystal Shards,0
+2015 Q1,Drupal (php),0
+2015 Q1,DUB (dlang),0
+2015 Q1,GoDoc (Go),44201
+2015 Q1,Gopm (go),0
+2015 Q1,Hackage (Haskell),7474
+2015 Q1,Hex.pm (Elixir/Erlang),377
+2015 Q1,Julia,0
+2015 Q1,LuaRocks (Lua),0
+2015 Q1,Maven Central (Java),94290
+2015 Q1,MELPA (Emacs),2202
+2015 Q1,Nimble (Nim),0
+2015 Q1,npm (node.js),111126
+2015 Q1,nuget (.NET),30573
+2015 Q1,Packagist (PHP),46438
+2015 Q1,Pear (PHP),599
+2015 Q1,Perl 6 Ecosystem (perl 6),0
+2015 Q1,PyPI,53493
+2015 Q1,Rubygems.org,93949
+2015 Q1,Vim Scripts,0
+2015 Q2,Bower (JS),30185
+2015 Q2,Clojars (Clojure),12235
+2015 Q2,CPAN,31585
+2015 Q2,CPAN (search),31585
+2015 Q2,CRAN (R),6463
+2015 Q2,Crates.io (Rust),1714
+2015 Q2,Crystal Shards,0
+2015 Q2,Drupal (php),0
+2015 Q2,DUB (dlang),0
+2015 Q2,GoDoc (Go),62929
+2015 Q2,Gopm (go),0
+2015 Q2,Hackage (Haskell),7885
+2015 Q2,Hex.pm (Elixir/Erlang),523
+2015 Q2,Julia,0
+2015 Q2,LuaRocks (Lua),691
+2015 Q2,Maven Central (Java),101742
+2015 Q2,MELPA (Emacs),2391
+2015 Q2,Nimble (Nim),0
+2015 Q2,npm (node.js),136513
+2015 Q2,nuget (.NET),34401
+2015 Q2,Packagist (PHP),55022
+2015 Q2,Pear (PHP),600
+2015 Q2,Perl 6 Ecosystem (perl 6),0
+2015 Q2,PyPI,57349
+2015 Q2,Rubygems.org,99050
+2015 Q2,Vim Scripts,0
+2015 Q3,Bower (JS),35811
+2015 Q3,Clojars (Clojure),12986
+2015 Q3,CPAN,32046
+2015 Q3,CPAN (search),32046
+2015 Q3,CRAN (R),6819
+2015 Q3,Crates.io (Rust),2462
+2015 Q3,Crystal Shards,0
+2015 Q3,Drupal (php),0
+2015 Q3,DUB (dlang),0
+2015 Q3,GoDoc (Go),75226
+2015 Q3,Gopm (go),0
+2015 Q3,Hackage (Haskell),8378
+2015 Q3,Hex.pm (Elixir/Erlang),593
+2015 Q3,Julia,0
+2015 Q3,LuaRocks (Lua),769
+2015 Q3,Maven Central (Java),110063
+2015 Q3,MELPA (Emacs),2555
+2015 Q3,Nimble (Nim),0
+2015 Q3,npm (node.js),160717
+2015 Q3,nuget (.NET),38556
+2015 Q3,Packagist (PHP),61478
+2015 Q3,Pear (PHP),600
+2015 Q3,Perl 6 Ecosystem (perl 6),0
+2015 Q3,PyPI,62140
+2015 Q3,Rubygems.org,103775
+2015 Q3,Vim Scripts,0
+2015 Q4,Bower (JS),42031
+2015 Q4,Clojars (Clojure),13844
+2015 Q4,CPAN,32465
+2015 Q4,CPAN (search),32465
+2015 Q4,CRAN (R),7239
+2015 Q4,Crates.io (Rust),3087
+2015 Q4,Crystal Shards,0
+2015 Q4,Drupal (php),0
+2015 Q4,DUB (dlang),0
+2015 Q4,GoDoc (Go),92619
+2015 Q4,Gopm (go),0
+2015 Q4,Hackage (Haskell),8757
+2015 Q4,Hex.pm (Elixir/Erlang),949
+2015 Q4,Julia,0
+2015 Q4,LuaRocks (Lua),824
+2015 Q4,Maven Central (Java),118908
+2015 Q4,MELPA (Emacs),2700
+2015 Q4,Nimble (Nim),0
+2015 Q4,npm (node.js),189916
+2015 Q4,nuget (.NET),43073
+2015 Q4,Packagist (PHP),71808
+2015 Q4,Pear (PHP),601
+2015 Q4,Perl 6 Ecosystem (perl 6),0
+2015 Q4,PyPI,67140
+2015 Q4,Rubygems.org,108112
+2015 Q4,Vim Scripts,0
+2016 Q1,Bower (JS),46748
+2016 Q1,Clojars (Clojure),14678
+2016 Q1,CPAN,32926
+2016 Q1,CPAN (search),32926
+2016 Q1,CRAN (R),7709
+2016 Q1,Crates.io (Rust),3714
+2016 Q1,Crystal Shards,0
+2016 Q1,Drupal (php),32801
+2016 Q1,DUB (dlang),0
+2016 Q1,GoDoc (Go),105880
+2016 Q1,Gopm (go),0
+2016 Q1,Hackage (Haskell),9212
+2016 Q1,Hex.pm (Elixir/Erlang),1300
+2016 Q1,Julia,0
+2016 Q1,LuaRocks (Lua),896
+2016 Q1,Maven Central (Java),128235
+2016 Q1,MELPA (Emacs),2859
+2016 Q1,Nimble (Nim),0
+2016 Q1,npm (node.js),221384
+2016 Q1,nuget (.NET),47781
+2016 Q1,Packagist (PHP),81166
+2016 Q1,Pear (PHP),601
+2016 Q1,Perl 6 Ecosystem (perl 6),488
+2016 Q1,PyPI,71915
+2016 Q1,Rubygems.org,111314
+2016 Q1,Vim Scripts,0
+2016 Q2,Bower (JS),51186
+2016 Q2,Clojars (Clojure),15545
+2016 Q2,CPAN,33468
+2016 Q2,CPAN (search),33585
+2016 Q2,CRAN (R),8182
+2016 Q2,Crates.io (Rust),4507
+2016 Q2,Crystal Shards,0
+2016 Q2,Drupal (php),33665
+2016 Q2,DUB (dlang),0
+2016 Q2,GoDoc (Go),119279
+2016 Q2,Gopm (go),0
+2016 Q2,Hackage (Haskell),9512
+2016 Q2,Hex.pm (Elixir/Erlang),1827
+2016 Q2,Julia,0
+2016 Q2,LuaRocks (Lua),1018
+2016 Q2,Maven Central (Java),138303
+2016 Q2,MELPA (Emacs),3012
+2016 Q2,Nimble (Nim),0
+2016 Q2,npm (node.js),260453
+2016 Q2,nuget (.NET),52689
+2016 Q2,Packagist (PHP),91059
+2016 Q2,Pear (PHP),602
+2016 Q2,Perl 6 Ecosystem (perl 6),593
+2016 Q2,PyPI,77690
+2016 Q2,Rubygems.org,111314
+2016 Q2,Vim Scripts,0
+2016 Q3,Bower (JS),53765
+2016 Q3,Clojars (Clojure),16369
+2016 Q3,CPAN,33906
+2016 Q3,CPAN (search),33906
+2016 Q3,CRAN (R),8683
+2016 Q3,Crates.io (Rust),5307
+2016 Q3,Crystal Shards,0
+2016 Q3,Drupal (php),34778
+2016 Q3,DUB (dlang),808
+2016 Q3,GoDoc (Go),126759
+2016 Q3,Gopm (go),0
+2016 Q3,Hackage (Haskell),9893
+2016 Q3,Hex.pm (Elixir/Erlang),2310
+2016 Q3,Julia,0
+2016 Q3,LuaRocks (Lua),1120
+2016 Q3,Maven Central (Java),147589
+2016 Q3,MELPA (Emacs),3184
+2016 Q3,Nimble (Nim),0
+2016 Q3,npm (node.js),294182
+2016 Q3,nuget (.NET),58744
+2016 Q3,Packagist (PHP),101395
+2016 Q3,Pear (PHP),602
+2016 Q3,Perl 6 Ecosystem (perl 6),670
+2016 Q3,PyPI,83478
+2016 Q3,Rubygems.org,120189
+2016 Q3,Vim Scripts,0
+2016 Q4,Bower (JS),53765
+2016 Q4,Clojars (Clojure),17065
+2016 Q4,CPAN,34274
+2016 Q4,CPAN (search),34275
+2016 Q4,CRAN (R),9262
+2016 Q4,Crates.io (Rust),6328
+2016 Q4,Crystal Shards,0
+2016 Q4,Drupal (php),35556
+2016 Q4,DUB (dlang),858
+2016 Q4,GoDoc (Go),127963
+2016 Q4,Gopm (go),0
+2016 Q4,Hackage (Haskell),10303
+2016 Q4,Hex.pm (Elixir/Erlang),2876
+2016 Q4,Julia,0
+2016 Q4,LuaRocks (Lua),1238
+2016 Q4,Maven Central (Java),157973
+2016 Q4,MELPA (Emacs),3345
+2016 Q4,Nimble (Nim),0
+2016 Q4,npm (node.js),332897
+2016 Q4,nuget (.NET),64267
+2016 Q4,Packagist (PHP),111794
+2016 Q4,Pear (PHP),602
+2016 Q4,Perl 6 Ecosystem (perl 6),723
+2016 Q4,PyPI,89742
+2016 Q4,Rubygems.org,123786
+2016 Q4,Vim Scripts,0
+2017 Q1,Bower (JS),53765
+2017 Q1,Clojars (Clojure),17817
+2017 Q1,CPAN,34721
+2017 Q1,CPAN (search),34721
+2017 Q1,CRAN (R),9813
+2017 Q1,Crates.io (Rust),7404
+2017 Q1,Crystal Shards,0
+2017 Q1,Drupal (php),36239
+2017 Q1,DUB (dlang),913
+2017 Q1,GoDoc (Go),129650
+2017 Q1,Gopm (go),0
+2017 Q1,Hackage (Haskell),10690
+2017 Q1,Hex.pm (Elixir/Erlang),3369
+2017 Q1,Julia,0
+2017 Q1,LuaRocks (Lua),1324
+2017 Q1,Maven Central (Java),171315
+2017 Q1,MELPA (Emacs),3455
+2017 Q1,Nimble (Nim),0
+2017 Q1,npm (node.js),374135
+2017 Q1,nuget (.NET),70062
+2017 Q1,Packagist (PHP),122485
+2017 Q1,Pear (PHP),602
+2017 Q1,Perl 6 Ecosystem (perl 6),759
+2017 Q1,PyPI,95745
+2017 Q1,Rubygems.org,127361
+2017 Q1,Vim Scripts,0
+2017 Q2,Bower (JS),53765
+2017 Q2,Clojars (Clojure),18522
+2017 Q2,CPAN,35095
+2017 Q2,CPAN (search),35095
+2017 Q2,CRAN (R),10356
+2017 Q2,Crates.io (Rust),8650
+2017 Q2,Crystal Shards,0
+2017 Q2,Drupal (php),37016
+2017 Q2,DUB (dlang),982
+2017 Q2,GoDoc (Go),129650
+2017 Q2,Gopm (go),18865
+2017 Q2,Hackage (Haskell),11133
+2017 Q2,Hex.pm (Elixir/Erlang),3874
+2017 Q2,Julia,0
+2017 Q2,LuaRocks (Lua),1411
+2017 Q2,Maven Central (Java),181371
+2017 Q2,MELPA (Emacs),3573
+2017 Q2,Nimble (Nim),0
+2017 Q2,npm (node.js),420177
+2017 Q2,nuget (.NET),76384
+2017 Q2,Packagist (PHP),134162
+2017 Q2,Pear (PHP),602
+2017 Q2,Perl 6 Ecosystem (perl 6),798
+2017 Q2,PyPI,101950
+2017 Q2,Rubygems.org,130637
+2017 Q2,Vim Scripts,0
+2017 Q3,Bower (JS),53765
+2017 Q3,Clojars (Clojure),19254
+2017 Q3,CPAN,35405
+2017 Q3,CPAN (search),35405
+2017 Q3,CRAN (R),10951
+2017 Q3,Crates.io (Rust),10086
+2017 Q3,Crystal Shards,0
+2017 Q3,Drupal (php),37872
+2017 Q3,DUB (dlang),1024
+2017 Q3,GoDoc (Go),129650
+2017 Q3,Gopm (go),19188
+2017 Q3,Hackage (Haskell),11500
+2017 Q3,Hex.pm (Elixir/Erlang),4414
+2017 Q3,Julia,1449
+2017 Q3,LuaRocks (Lua),1475
+2017 Q3,Maven Central (Java),191757
+2017 Q3,MELPA (Emacs),3663
+2017 Q3,Nimble (Nim),0
+2017 Q3,npm (node.js),477185
+2017 Q3,nuget (.NET),83247
+2017 Q3,Packagist (PHP),145343
+2017 Q3,Pear (PHP),602
+2017 Q3,Perl 6 Ecosystem (perl 6),841
+2017 Q3,PyPI,111114
+2017 Q3,Rubygems.org,133615
+2017 Q3,Vim Scripts,5455
+2017 Q4,Bower (JS),53765
+2017 Q4,Clojars (Clojure),19958
+2017 Q4,CPAN,35734
+2017 Q4,CPAN (search),35734
+2017 Q4,CRAN (R),11525
+2017 Q4,Crates.io (Rust),11539
+2017 Q4,Crystal Shards,0
+2017 Q4,Drupal (php),38686
+2017 Q4,DUB (dlang),1128
+2017 Q4,GoDoc (Go),129650
+2017 Q4,Gopm (go),19517
+2017 Q4,Hackage (Haskell),11815
+2017 Q4,Hex.pm (Elixir/Erlang),5072
+2017 Q4,Julia,1583
+2017 Q4,LuaRocks (Lua),1575
+2017 Q4,Maven Central (Java),202124
+2017 Q4,MELPA (Emacs),3722
+2017 Q4,Nimble (Nim),526
+2017 Q4,npm (node.js),522855
+2017 Q4,nuget (.NET),92901
+2017 Q4,Packagist (PHP),157574
+2017 Q4,Pear (PHP),602
+2017 Q4,Perl 6 Ecosystem (perl 6),900
+2017 Q4,PyPI,118174
+2017 Q4,Rubygems.org,136573
+2017 Q4,Vim Scripts,5480
+2018 Q1,Bower (JS),53765
+2018 Q1,Clojars (Clojure),20641
+2018 Q1,CPAN,35995
+2018 Q1,CPAN (search),35995
+2018 Q1,CRAN (R),12009
+2018 Q1,Crates.io (Rust),13062
+2018 Q1,Crystal Shards,0
+2018 Q1,Drupal (php),39415
+2018 Q1,DUB (dlang),1173
+2018 Q1,GoDoc (Go),129650
+2018 Q1,Gopm (go),19860
+2018 Q1,Hackage (Haskell),12141
+2018 Q1,Hex.pm (Elixir/Erlang),5549
+2018 Q1,Julia,1688
+2018 Q1,LuaRocks (Lua),1666
+2018 Q1,Maven Central (Java),215129
+2018 Q1,MELPA (Emacs),3828
+2018 Q1,Nimble (Nim),568
+2018 Q1,npm (node.js),570080
+2018 Q1,nuget (.NET),101048
+2018 Q1,Packagist (PHP),169297
+2018 Q1,Pear (PHP),602
+2018 Q1,Perl 6 Ecosystem (perl 6),967
+2018 Q1,PyPI,125486
+2018 Q1,Rubygems.org,139265
+2018 Q1,Vim Scripts,5499
+2018 Q2,Bower (JS),53765
+2018 Q2,Clojars (Clojure),21425
+2018 Q2,CPAN,36255
+2018 Q2,CPAN (search),36255
+2018 Q2,CRAN (R),12371
+2018 Q2,Crates.io (Rust),14950
+2018 Q2,Crystal Shards,2993
+2018 Q2,Drupal (php),40198
+2018 Q2,DUB (dlang),1255
+2018 Q2,GoDoc (Go),129650
+2018 Q2,Gopm (go),20157
+2018 Q2,Hackage (Haskell),12463
+2018 Q2,Hex.pm (Elixir/Erlang),6064
+2018 Q2,Julia,1749
+2018 Q2,LuaRocks (Lua),1749
+2018 Q2,Maven Central (Java),226798
+2018 Q2,MELPA (Emacs),3774
+2018 Q2,Nimble (Nim),638
+2018 Q2,npm (node.js),607712
+2018 Q2,nuget (.NET),108866
+2018 Q2,Packagist (PHP),181423
+2018 Q2,Pear (PHP),602
+2018 Q2,Perl 6 Ecosystem (perl 6),1070
+2018 Q2,PyPI,133968
+2018 Q2,Rubygems.org,141977
+2018 Q2,Vim Scripts,5532
+2018 Q3,Bower (JS),53765
+2018 Q3,Clojars (Clojure),22109
+2018 Q3,CPAN,38537
+2018 Q3,CPAN (search),36528
+2018 Q3,CRAN (R),12651
+2018 Q3,Crates.io (Rust),16626
+2018 Q3,Crystal Shards,3356
+2018 Q3,Drupal (php),40880
+2018 Q3,DUB (dlang),1335
+2018 Q3,GoDoc (Go),129650
+2018 Q3,Gopm (go),20387
+2018 Q3,Hackage (Haskell),12833
+2018 Q3,Hex.pm (Elixir/Erlang),6579
+2018 Q3,Julia,1872
+2018 Q3,LuaRocks (Lua),1870
+2018 Q3,Maven Central (Java),238015
+2018 Q3,MELPA (Emacs),3874
+2018 Q3,Nimble (Nim),704
+2018 Q3,npm (node.js),655129
+2018 Q3,nuget (.NET),119024
+2018 Q3,Packagist (PHP),187483
+2018 Q3,Pear (PHP),602
+2018 Q3,Perl 6 Ecosystem (perl 6),1165
+2018 Q3,PyPI,143532
+2018 Q3,Rubygems.org,144527
+2018 Q3,Vim Scripts,5536
+2018 Q4,Bower (JS),53765
+2018 Q4,Clojars (Clojure),22656
+2018 Q4,CPAN,38984
+2018 Q4,CPAN (search),36528
+2018 Q4,CRAN (R),13103
+2018 Q4,Crates.io (Rust),18858
+2018 Q4,Crystal Shards,3737
+2018 Q4,Drupal (php),41559
+2018 Q4,DUB (dlang),1399
+2018 Q4,GoDoc (Go),129650
+2018 Q4,Gopm (go),20967
+2018 Q4,Hackage (Haskell),13103
+2018 Q4,Hex.pm (Elixir/Erlang),7031
+2018 Q4,Julia,1906
+2018 Q4,LuaRocks (Lua),1920
+2018 Q4,Maven Central (Java),250468
+2018 Q4,MELPA (Emacs),3969
+2018 Q4,Nimble (Nim),781
+2018 Q4,npm (node.js),702491
+2018 Q4,nuget (.NET),128444
+2018 Q4,Packagist (PHP),197152
+2018 Q4,Pear (PHP),602
+2018 Q4,Perl 6 Ecosystem (perl 6),1220
+2018 Q4,PyPI,153558
+2018 Q4,Rubygems.org,146742
+2018 Q4,Vim Scripts,5536

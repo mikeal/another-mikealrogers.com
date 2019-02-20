@@ -7,6 +7,7 @@ module.exports = {
   themeConfig: {
     search: false
   },
+  plugins: ['@vuepress/blog'],
   configureWebpack: {
     output: {
       filename: '[name].[hash].js'

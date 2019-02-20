@@ -1,0 +1,423 @@
+QUARTER,PKG,GROWTH
+2010 Q3,CPAN,1%
+2010 Q3,PyPI,8%
+2010 Q3,Rubygems.org,16%
+2011 Q1,CPAN,7%
+2011 Q1,PyPI,24%
+2011 Q2,CPAN,3%
+2011 Q2,Pear (PHP),1%
+2011 Q2,PyPI,11%
+2011 Q2,Rubygems.org,16%
+2011 Q3,CPAN,17%
+2011 Q3,CPAN (search),3%
+2011 Q3,PyPI,11%
+2011 Q3,Rubygems.org,15%
+2011 Q4,CPAN,2%
+2011 Q4,CPAN (search),2%
+2011 Q4,CRAN (R),7%
+2011 Q4,Hackage (Haskell),8%
+2011 Q4,PyPI,9%
+2011 Q4,Rubygems.org,13%
+2012 Q1,CPAN,2%
+2012 Q1,CPAN (search),2%
+2012 Q1,CRAN (R),6%
+2012 Q1,Hackage (Haskell),8%
+2012 Q1,Pear (PHP),1%
+2012 Q1,PyPI,8%
+2012 Q1,Rubygems.org,12%
+2012 Q2,CPAN,2%
+2012 Q2,CPAN (search),2%
+2012 Q2,CRAN (R),5%
+2012 Q2,Hackage (Haskell),7%
+2012 Q2,Pear (PHP),2%
+2012 Q2,PyPI,10%
+2012 Q2,Rubygems.org,13%
+2012 Q3,CPAN,2%
+2012 Q3,CPAN (search),2%
+2012 Q3,CRAN (R),5%
+2012 Q3,Hackage (Haskell),6%
+2012 Q3,npm (node.js),37%
+2012 Q3,nuget (.NET),23%
+2012 Q3,Pear (PHP),1%
+2012 Q3,PyPI,9%
+2012 Q3,Rubygems.org,12%
+2012 Q4,CPAN,3%
+2012 Q4,CPAN (search),3%
+2012 Q4,CRAN (R),4%
+2012 Q4,Hackage (Haskell),6%
+2012 Q4,npm (node.js),33%
+2012 Q4,nuget (.NET),23%
+2012 Q4,PyPI,10%
+2012 Q4,Rubygems.org,10%
+2013 Q1,CPAN,3%
+2013 Q1,CPAN (search),3%
+2013 Q1,CRAN (R),3%
+2013 Q1,Hackage (Haskell),6%
+2013 Q1,npm (node.js),30%
+2013 Q1,nuget (.NET),18%
+2013 Q1,PyPI,9%
+2013 Q1,Rubygems.org,10%
+2013 Q2,Clojars (Clojure),16%
+2013 Q2,CPAN,3%
+2013 Q2,CPAN (search),3%
+2013 Q2,CRAN (R),5%
+2013 Q2,Hackage (Haskell),5%
+2013 Q2,npm (node.js),32%
+2013 Q2,nuget (.NET),21%
+2013 Q2,Pear (PHP),1%
+2013 Q2,PyPI,11%
+2013 Q2,Rubygems.org,10%
+2013 Q3,Clojars (Clojure),12%
+2013 Q3,CPAN,2%
+2013 Q3,CPAN (search),2%
+2013 Q3,CRAN (R),6%
+2013 Q3,Hackage (Haskell),6%
+2013 Q3,Maven Central (Java),9%
+2013 Q3,npm (node.js),28%
+2013 Q3,nuget (.NET),16%
+2013 Q3,Packagist (PHP),38%
+2013 Q3,PyPI,9%
+2013 Q3,Rubygems.org,9%
+2013 Q4,Clojars (Clojure),11%
+2013 Q4,CPAN,2%
+2013 Q4,CPAN (search),2%
+2013 Q4,CRAN (R),4%
+2013 Q4,Hackage (Haskell),5%
+2013 Q4,Maven Central (Java),7%
+2013 Q4,npm (node.js),26%
+2013 Q4,nuget (.NET),17%
+2013 Q4,Packagist (PHP),32%
+2013 Q4,PyPI,9%
+2013 Q4,Rubygems.org,8%
+2014 Q1,Clojars (Clojure),9%
+2014 Q1,CPAN,2%
+2014 Q1,CPAN (search),2%
+2014 Q1,CRAN (R),4%
+2014 Q1,Hackage (Haskell),5%
+2014 Q1,Maven Central (Java),7%
+2014 Q1,npm (node.js),24%
+2014 Q1,nuget (.NET),14%
+2014 Q1,Packagist (PHP),28%
+2014 Q1,PyPI,9%
+2014 Q1,Rubygems.org,8%
+2014 Q2,Clojars (Clojure),10%
+2014 Q2,CPAN,1%
+2014 Q2,CPAN (search),1%
+2014 Q2,CRAN (R),6%
+2014 Q2,Hackage (Haskell),10%
+2014 Q2,Maven Central (Java),7%
+2014 Q2,npm (node.js),26%
+2014 Q2,nuget (.NET),15%
+2014 Q2,Packagist (PHP),26%
+2014 Q2,PyPI,9%
+2014 Q2,Rubygems.org,7%
+2014 Q3,Clojars (Clojure),9%
+2014 Q3,CPAN,2%
+2014 Q3,CPAN (search),2%
+2014 Q3,CRAN (R),6%
+2014 Q3,Hackage (Haskell),6%
+2014 Q3,Maven Central (Java),9%
+2014 Q3,MELPA (Emacs),8%
+2014 Q3,npm (node.js),21%
+2014 Q3,nuget (.NET),19%
+2014 Q3,Packagist (PHP),22%
+2014 Q3,Pear (PHP),1%
+2014 Q3,PyPI,9%
+2014 Q3,Rubygems.org,7%
+2014 Q4,Clojars (Clojure),9%
+2014 Q4,CPAN,2%
+2014 Q4,CPAN (search),2%
+2014 Q4,CRAN (R),4%
+2014 Q4,Hackage (Haskell),6%
+2014 Q4,Maven Central (Java),8%
+2014 Q4,MELPA (Emacs),7%
+2014 Q4,npm (node.js),20%
+2014 Q4,nuget (.NET),13%
+2014 Q4,Packagist (PHP),19%
+2014 Q4,PyPI,9%
+2014 Q4,Rubygems.org,15%
+2015 Q1,Bower (JS),24%
+2015 Q1,Clojars (Clojure),8%
+2015 Q1,CPAN,2%
+2015 Q1,CPAN (search),2%
+2015 Q1,CRAN (R),4%
+2015 Q1,Hackage (Haskell),7%
+2015 Q1,Maven Central (Java),8%
+2015 Q1,MELPA (Emacs),10%
+2015 Q1,npm (node.js),14%
+2015 Q1,nuget (.NET),12%
+2015 Q1,Packagist (PHP),18%
+2015 Q1,PyPI,8%
+2015 Q1,Rubygems.org,5%
+2015 Q2,Bower (JS),22%
+2015 Q2,Clojars (Clojure),9%
+2015 Q2,CPAN,2%
+2015 Q2,CPAN (search),2%
+2015 Q2,CRAN (R),5%
+2015 Q2,Hackage (Haskell),5%
+2015 Q2,Maven Central (Java),8%
+2015 Q2,MELPA (Emacs),9%
+2015 Q2,npm (node.js),23%
+2015 Q2,nuget (.NET),13%
+2015 Q2,Packagist (PHP),18%
+2015 Q2,PyPI,7%
+2015 Q2,Rubygems.org,5%
+2015 Q3,Bower (JS),19%
+2015 Q3,Clojars (Clojure),6%
+2015 Q3,CPAN,1%
+2015 Q3,CPAN (search),1%
+2015 Q3,CRAN (R),6%
+2015 Q3,Hackage (Haskell),6%
+2015 Q3,Hex.pm (Elixir/Erlang),13%
+2015 Q3,LuaRocks (Lua),11%
+2015 Q3,Maven Central (Java),8%
+2015 Q3,MELPA (Emacs),7%
+2015 Q3,npm (node.js),18%
+2015 Q3,nuget (.NET),12%
+2015 Q3,Packagist (PHP),12%
+2015 Q3,PyPI,8%
+2015 Q3,Rubygems.org,5%
+2015 Q4,Bower (JS),17%
+2015 Q4,Clojars (Clojure),7%
+2015 Q4,CPAN,1%
+2015 Q4,CPAN (search),1%
+2015 Q4,CRAN (R),6%
+2015 Q4,Crates.io (Rust),25%
+2015 Q4,Hackage (Haskell),5%
+2015 Q4,LuaRocks (Lua),7%
+2015 Q4,Maven Central (Java),8%
+2015 Q4,MELPA (Emacs),6%
+2015 Q4,npm (node.js),18%
+2015 Q4,nuget (.NET),12%
+2015 Q4,Packagist (PHP),17%
+2015 Q4,PyPI,8%
+2015 Q4,Rubygems.org,4%
+2016 Q1,Bower (JS),11%
+2016 Q1,Clojars (Clojure),6%
+2016 Q1,CPAN,1%
+2016 Q1,CPAN (search),1%
+2016 Q1,CRAN (R),6%
+2016 Q1,Crates.io (Rust),20%
+2016 Q1,Hackage (Haskell),5%
+2016 Q1,Hex.pm (Elixir/Erlang),37%
+2016 Q1,LuaRocks (Lua),9%
+2016 Q1,Maven Central (Java),8%
+2016 Q1,MELPA (Emacs),6%
+2016 Q1,npm (node.js),17%
+2016 Q1,nuget (.NET),11%
+2016 Q1,Packagist (PHP),13%
+2016 Q1,PyPI,7%
+2016 Q1,Rubygems.org,3%
+2016 Q2,Bower (JS),9%
+2016 Q2,Clojars (Clojure),6%
+2016 Q2,CPAN,2%
+2016 Q2,CPAN (search),2%
+2016 Q2,CRAN (R),6%
+2016 Q2,Crates.io (Rust),21%
+2016 Q2,Drupal (php),3%
+2016 Q2,Hackage (Haskell),3%
+2016 Q2,LuaRocks (Lua),14%
+2016 Q2,Maven Central (Java),8%
+2016 Q2,MELPA (Emacs),5%
+2016 Q2,npm (node.js),18%
+2016 Q2,nuget (.NET),10%
+2016 Q2,Packagist (PHP),12%
+2016 Q2,Perl 6 Ecosystem (perl 6),22%
+2016 Q2,PyPI,8%
+2016 Q3,Bower (JS),5%
+2016 Q3,Clojars (Clojure),5%
+2016 Q3,CPAN,1%
+2016 Q3,CPAN (search),1%
+2016 Q3,CRAN (R),6%
+2016 Q3,Crates.io (Rust),18%
+2016 Q3,Drupal (php),3%
+2016 Q3,Hackage (Haskell),4%
+2016 Q3,Hex.pm (Elixir/Erlang),26%
+2016 Q3,LuaRocks (Lua),10%
+2016 Q3,Maven Central (Java),7%
+2016 Q3,MELPA (Emacs),6%
+2016 Q3,npm (node.js),13%
+2016 Q3,nuget (.NET),11%
+2016 Q3,Packagist (PHP),11%
+2016 Q3,Perl 6 Ecosystem (perl 6),13%
+2016 Q3,PyPI,7%
+2016 Q3,Rubygems.org,8%
+2016 Q4,Clojars (Clojure),4%
+2016 Q4,CPAN,1%
+2016 Q4,CPAN (search),1%
+2016 Q4,CRAN (R),7%
+2016 Q4,Crates.io (Rust),19%
+2016 Q4,Drupal (php),2%
+2016 Q4,DUB (dlang),6%
+2016 Q4,Hackage (Haskell),4%
+2016 Q4,Hex.pm (Elixir/Erlang),25%
+2016 Q4,LuaRocks (Lua),11%
+2016 Q4,Maven Central (Java),7%
+2016 Q4,MELPA (Emacs),5%
+2016 Q4,npm (node.js),13%
+2016 Q4,nuget (.NET),9%
+2016 Q4,Packagist (PHP),10%
+2016 Q4,Perl 6 Ecosystem (perl 6),8%
+2016 Q4,PyPI,8%
+2016 Q4,Rubygems.org,3%
+2017 Q1,Clojars (Clojure),4%
+2017 Q1,CPAN,1%
+2017 Q1,CPAN (search),1%
+2017 Q1,CRAN (R),6%
+2017 Q1,Crates.io (Rust),17%
+2017 Q1,Drupal (php),2%
+2017 Q1,DUB (dlang),6%
+2017 Q1,Hackage (Haskell),4%
+2017 Q1,Hex.pm (Elixir/Erlang),17%
+2017 Q1,LuaRocks (Lua),7%
+2017 Q1,Maven Central (Java),8%
+2017 Q1,MELPA (Emacs),3%
+2017 Q1,npm (node.js),12%
+2017 Q1,nuget (.NET),9%
+2017 Q1,Packagist (PHP),10%
+2017 Q1,Perl 6 Ecosystem (perl 6),5%
+2017 Q1,PyPI,7%
+2017 Q1,Rubygems.org,3%
+2017 Q2,Clojars (Clojure),4%
+2017 Q2,CPAN,1%
+2017 Q2,CPAN (search),1%
+2017 Q2,CRAN (R),6%
+2017 Q2,Crates.io (Rust),17%
+2017 Q2,Drupal (php),2%
+2017 Q2,DUB (dlang),8%
+2017 Q2,Hackage (Haskell),4%
+2017 Q2,Hex.pm (Elixir/Erlang),15%
+2017 Q2,LuaRocks (Lua),7%
+2017 Q2,Maven Central (Java),6%
+2017 Q2,MELPA (Emacs),3%
+2017 Q2,npm (node.js),12%
+2017 Q2,nuget (.NET),9%
+2017 Q2,Packagist (PHP),10%
+2017 Q2,Perl 6 Ecosystem (perl 6),5%
+2017 Q2,PyPI,6%
+2017 Q2,Rubygems.org,3%
+2017 Q3,Clojars (Clojure),4%
+2017 Q3,CPAN,1%
+2017 Q3,CPAN (search),1%
+2017 Q3,CRAN (R),6%
+2017 Q3,Crates.io (Rust),17%
+2017 Q3,Drupal (php),2%
+2017 Q3,DUB (dlang),4%
+2017 Q3,Gopm (go),2%
+2017 Q3,Hackage (Haskell),3%
+2017 Q3,Hex.pm (Elixir/Erlang),14%
+2017 Q3,LuaRocks (Lua),5%
+2017 Q3,Maven Central (Java),6%
+2017 Q3,MELPA (Emacs),3%
+2017 Q3,npm (node.js),14%
+2017 Q3,nuget (.NET),9%
+2017 Q3,Packagist (PHP),8%
+2017 Q3,Perl 6 Ecosystem (perl 6),5%
+2017 Q3,PyPI,9%
+2017 Q3,Rubygems.org,2%
+2017 Q4,Clojars (Clojure),4%
+2017 Q4,CPAN,1%
+2017 Q4,CPAN (search),1%
+2017 Q4,CRAN (R),5%
+2017 Q4,Crates.io (Rust),14%
+2017 Q4,Drupal (php),2%
+2017 Q4,DUB (dlang),10%
+2017 Q4,Gopm (go),2%
+2017 Q4,Hackage (Haskell),3%
+2017 Q4,Hex.pm (Elixir/Erlang),15%
+2017 Q4,Julia,9%
+2017 Q4,LuaRocks (Lua),7%
+2017 Q4,Maven Central (Java),5%
+2017 Q4,MELPA (Emacs),2%
+2017 Q4,npm (node.js),10%
+2017 Q4,nuget (.NET),12%
+2017 Q4,Packagist (PHP),8%
+2017 Q4,Perl 6 Ecosystem (perl 6),7%
+2017 Q4,PyPI,6%
+2017 Q4,Rubygems.org,2%
+2018 Q1,Clojars (Clojure),3%
+2018 Q1,CPAN,1%
+2018 Q1,CPAN (search),1%
+2018 Q1,CRAN (R),4%
+2018 Q1,Crates.io (Rust),13%
+2018 Q1,Drupal (php),2%
+2018 Q1,DUB (dlang),4%
+2018 Q1,Gopm (go),2%
+2018 Q1,Hackage (Haskell),3%
+2018 Q1,Hex.pm (Elixir/Erlang),9%
+2018 Q1,Julia,7%
+2018 Q1,LuaRocks (Lua),6%
+2018 Q1,Maven Central (Java),6%
+2018 Q1,MELPA (Emacs),3%
+2018 Q1,Nimble (Nim),8%
+2018 Q1,npm (node.js),9%
+2018 Q1,nuget (.NET),9%
+2018 Q1,Packagist (PHP),7%
+2018 Q1,Perl 6 Ecosystem (perl 6),7%
+2018 Q1,PyPI,6%
+2018 Q1,Rubygems.org,2%
+2018 Q2,Clojars (Clojure),4%
+2018 Q2,CPAN,1%
+2018 Q2,CPAN (search),1%
+2018 Q2,CRAN (R),3%
+2018 Q2,Crates.io (Rust),14%
+2018 Q2,Drupal (php),2%
+2018 Q2,DUB (dlang),7%
+2018 Q2,Gopm (go),1%
+2018 Q2,Hackage (Haskell),3%
+2018 Q2,Hex.pm (Elixir/Erlang),9%
+2018 Q2,Julia,4%
+2018 Q2,LuaRocks (Lua),5%
+2018 Q2,Maven Central (Java),5%
+2018 Q2,MELPA (Emacs),-1%
+2018 Q2,Nimble (Nim),12%
+2018 Q2,npm (node.js),7%
+2018 Q2,nuget (.NET),8%
+2018 Q2,Packagist (PHP),7%
+2018 Q2,Perl 6 Ecosystem (perl 6),11%
+2018 Q2,PyPI,7%
+2018 Q2,Rubygems.org,2%
+2018 Q2,Vim Scripts,1%
+2018 Q3,Clojars (Clojure),3%
+2018 Q3,CPAN,6%
+2018 Q3,CPAN (search),1%
+2018 Q3,CRAN (R),2%
+2018 Q3,Crates.io (Rust),11%
+2018 Q3,Crystal Shards,12%
+2018 Q3,Drupal (php),2%
+2018 Q3,DUB (dlang),6%
+2018 Q3,Gopm (go),1%
+2018 Q3,Hackage (Haskell),3%
+2018 Q3,Hex.pm (Elixir/Erlang),8%
+2018 Q3,Julia,7%
+2018 Q3,LuaRocks (Lua),7%
+2018 Q3,Maven Central (Java),5%
+2018 Q3,MELPA (Emacs),3%
+2018 Q3,Nimble (Nim),10%
+2018 Q3,npm (node.js),8%
+2018 Q3,nuget (.NET),9%
+2018 Q3,Packagist (PHP),3%
+2018 Q3,Perl 6 Ecosystem (perl 6),9%
+2018 Q3,PyPI,7%
+2018 Q3,Rubygems.org,2%
+2018 Q4,Clojars (Clojure),2%
+2018 Q4,CPAN,1%
+2018 Q4,CRAN (R),4%
+2018 Q4,Crates.io (Rust),13%
+2018 Q4,Crystal Shards,11%
+2018 Q4,Drupal (php),2%
+2018 Q4,DUB (dlang),5%
+2018 Q4,Gopm (go),3%
+2018 Q4,Hackage (Haskell),2%
+2018 Q4,Hex.pm (Elixir/Erlang),7%
+2018 Q4,Julia,2%
+2018 Q4,LuaRocks (Lua),3%
+2018 Q4,Maven Central (Java),5%
+2018 Q4,MELPA (Emacs),2%
+2018 Q4,Nimble (Nim),11%
+2018 Q4,npm (node.js),7%
+2018 Q4,nuget (.NET),8%
+2018 Q4,Packagist (PHP),5%
+2018 Q4,Perl 6 Ecosystem (perl 6),5%
+2018 Q4,PyPI,7%
+2018 Q4,Rubygems.org,2%
