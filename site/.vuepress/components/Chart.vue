@@ -7,21 +7,27 @@
 </template>
 
 <script>
-const createSeries = records => {
+const createSeries = (records, limit) => {
   let [x, name, y] = Object.keys(records[0])
   let lines = {}
   records.forEach(record => {
     let line = record[name]
     if (!lines[line]) lines[line] = { name: line, data: [] }
-    lines[line].data.push([ record[x], record[y] ])
+    lines[line].data.push({ x: record[x], y: record[y] })
   })
-  return Object.values(lines)
+  lines = Object.values(lines)
+  if (limit) {
+    lines.forEach(line => {
+      line.data = line.data.splice(-limit)
+    })
+  }
+  return lines
 }
 
 export default {
   props: [ 'csv' ],
   data () {
-   return { loaded: false, series: false }
+   return { loaded: false, series: false, xaxis: false }
   },
   computed: {
     chartOptions () {
@@ -46,9 +52,6 @@ export default {
         legend: {
           position: 'top',
           horizontalAlign: 'left'
-        },
-        xaxis: {
-          type: 'datetime'
         }
       }
       return options
@@ -61,8 +64,8 @@ export default {
     Vue.use(VueApexCharts)
     Vue.component('apexchart', VueApexCharts)
     let csv = await fetch(this.$props.csv).then(resp => resp.text())
-    let { data } = await parse(csv)
-    let series = createSeries(data)
+    let { data } = await parse(csv, {header: true})
+    let series = createSeries(data, 12)
     this.$data.series = series
   }
 }
