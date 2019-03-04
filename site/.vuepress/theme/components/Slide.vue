@@ -1,5 +1,5 @@
 <template>
-  <main class="page">
+  <main class="slide">
 
     <Content/>
 
@@ -62,8 +62,46 @@
 <script>
 import { resolvePage, normalize, outboundRE, endingSlashRE } from '../util'
 
+function isElementInViewport(el) {
+  let rect = el.getBoundingClientRect();
+
+  return rect.bottom > 0 &&
+    rect.right > 0 &&
+    rect.left < (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */ &&
+    rect.top < (window.innerHeight || document.documentElement.clientHeight) /* or $(window).height() */;
+}
+
 export default {
   props: ['sidebarItems'],
+
+  mounted () {
+    const fwd = () => {
+      console.log('fwd')
+    }
+
+    const back = () => {
+      console.log('back')
+    }
+
+    const keyboardNav = (evt) => {
+      const keyMap = {
+        ArrowLeft: back,
+        LeftArrow: back,
+        ArrowUp: back,
+        UpArrow: back,
+        ArrowRight: fwd,
+        RightArrow: fwd,
+        ArrowDown: fwd,
+        DownArrow: fwd,
+        Space: fwd
+      }
+      for (let key of Object.keys(keyMap)) {
+        if (evt.key.endsWith(key)) return keyMap[key]()
+      }
+    }
+
+    document.addEventListener('keydown', keyboardNav)
+  },
 
   computed: {
     lastUpdated () {
@@ -196,53 +234,58 @@ function flattern (items, res) {
 
 </script>
 
-<style lang="stylus">
-@require '../styles/wrapper.styl'
+<style>
+main.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100vw;
+}
 
-.page
-  padding-bottom 2rem
-  display block
+section.slide img {
+  max-width: 100%;
+}
 
-.page-edit
-  @extend $wrapper
-  padding-top 1rem
-  padding-bottom 1rem
-  overflow auto
-  .edit-link
-    display inline-block
-    a
-      color lighten($textColor, 25%)
-      margin-right 0.25rem
-  .last-updated
-    float right
-    font-size 0.9em
-    .prefix
-      font-weight 500
-      color lighten($textColor, 25%)
-    .time
-      font-weight 400
-      color #aaa
+section.slide {
+  background:black;
+  color: snow;
+  width: 100vw;
+  overflow-x: hidden;
+  height: 100vh;
+  min-height: 100vh;
+  display: table;
+  font-weight: 300;
+  font-size: 60px;
+  font-family: Courier Prime Sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  text-align: center;
+  text-shadow: 1px 1px #333;
+}
 
-.page-nav
-  @extend $wrapper
-  padding-top 1rem
-  padding-bottom 0
-  .inner
-    min-height 2rem
-    margin-top 0
-    border-top 1px solid $borderColor
-    padding-top 1rem
-    overflow auto // clear float
-  .next
-    float right
+.invert {
+  background:white;
+  color: black;
+}
 
-@media (max-width: $MQMobile)
-  .page-edit
-    .edit-link
-      margin-bottom .5rem
-    .last-updated
-      font-size .8em
-      float none
-      text-align left
+section.slide code {
+  font-family: "Envy Code R", "Courier New", Courier, monospace;
+}
 
+section.slide a {
+  text-decoration: none;
+  color: white;
+}
+
+.align-middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+section.slide .white {
+  color: white;
+}
+
+section.slide .text-shadow-dark {
+  text-shadow: 1px 1px #333;
+}
 </style>

@@ -198,7 +198,7 @@ function flattern (items, res) {
 
 </script>
 
-<style lang="stylus">
+<style lang="stylus" scoped>
 @require '../styles/wrapper.styl'
 
 .page

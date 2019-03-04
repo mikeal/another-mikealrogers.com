@@ -7,6 +7,16 @@ module.exports = {
   themeConfig: {
     search: false
   },
+  extendMarkdown: md => {
+    const render = (tokens, idx) => {
+      if (tokens[idx].nesting === 1) {
+        return '<section class="slide"><div class="align-middle">'
+      } else {
+        return '</div></section>\n'
+      }
+    }
+    md.use(require('markdown-it-container'), 'slide', { render })
+  },
   configureWebpack: {
     output: {
       filename: '[name].[hash].js'
