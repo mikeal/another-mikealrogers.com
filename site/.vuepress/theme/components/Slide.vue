@@ -62,26 +62,31 @@
 <script>
 import { resolvePage, normalize, outboundRE, endingSlashRE } from '../util'
 
-function isElementInViewport(el) {
-  let rect = el.getBoundingClientRect();
+const isElementInViewport = el => {
+  let rect = el.getBoundingClientRect()
 
   return rect.bottom > 0 &&
     rect.right > 0 &&
     rect.left < (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */ &&
-    rect.top < (window.innerHeight || document.documentElement.clientHeight) /* or $(window).height() */;
+    rect.top < (window.innerHeight || document.documentElement.clientHeight) /* or $(window).height() */
+}
+
+const slideElements = () => Array.from(document.querySelectorAll('section.slide'))
+
+const currentSlide = () => {
+  let slides = slideElements()
+  for (let i = 0; i < slides.length; i++) {
+    if (isElementInViewport(slides[i])) return i
+  }
 }
 
 export default {
   props: ['sidebarItems'],
 
   mounted () {
-    const fwd = () => {
-      console.log('fwd')
-    }
+    const fwd = () => slideElements()[currentSlide() + 1].scrollIntoView(true)
 
-    const back = () => {
-      console.log('back')
-    }
+    const back = () => slideElements()[currentSlide() - 1].scrollIntoView(true)
 
     const keyboardNav = (evt) => {
       const keyMap = {
