@@ -13,6 +13,7 @@
     "@syncfusion/ej2-vue-treemap": "^16.4.52",
     "@vuepress/plugin-blog": "^1.0.0-alpha.0",
     "apexcharts": "^3.4.1",
+    "distinct-colors": "^1.0.4",
     "now": "^13.1.2",
     "papaparse": "^4.6.3",
     "vue-apexcharts": "^1.2.9",

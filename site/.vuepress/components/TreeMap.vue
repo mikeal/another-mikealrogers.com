@@ -7,7 +7,10 @@
 </template>
 
 <script>
+const distinctColors = require('distinct-colors')
+ 
 export default {
+  props: ['csv'],
   data: function() {
     return { treemap: false }
   },
@@ -15,66 +18,40 @@ export default {
     const Vue = (await import('vue')).default
     const TreeMapPlugin = (await import('@syncfusion/ej2-vue-treemap')).TreeMapPlugin
     Vue.use(TreeMapPlugin)
-    
-   
-    this.$data.treemap = {
-     height: '350px',
-			dataSource: [
-				{ Title: 'State wise International Airport count in South America', State: "Brazil", Count: 25 },
-				{ Title: 'State wise International Airport count in South America', State: "Colombia", Count: 12 },
-				{ Title: 'State wise International Airport count in South America', State: "Argentina", Count: 9 },
-				{ Title: 'State wise International Airport count in South America', State: "Ecuador", Count: 7 },
-				{ Title: 'State wise International Airport count in South America', State: "Chile", Count: 6 },
-				{ Title: 'State wise International Airport count in South America', State: "Peru", Count: 3 },
-				{ Title: 'State wise International Airport count in South America', State: "Venezuela", Count: 3 },
-				{ Title: 'State wise International Airport count in South America', State: "Bolivia", Count: 2 },
-				{ Title: 'State wise International Airport count in South America', State: "Paraguay", Count: 2 },
-				{ Title: 'State wise International Airport count in South America', State: "Uruguay", Count: 2 },
-				{ Title: 'State wise International Airport count in South America', State: "Falkland Islands", Count: 1 },
-				{ Title: 'State wise International Airport count in South America', State: "French Guiana", Count: 1 },
-				{ Title: 'State wise International Airport count in South America', State: "Guyana", Count: 1 },
-				{ Title: 'State wise International Airport count in South America', State: "Suriname", Count: 1 },
-		  ],
-			weightValuePath: 'Count',
-			equalColorValuePath: 'Count',
-			leafItemSettings: {
-				labelPath: 'State',
-				colorMapping: [
-					{
-						value: 25,
-						color: '#634D6F'
-				  },
-					{
-					  value: 12,
-						color: '#B34D6D'
-					},
-					{
-						value: 9,
-						color: '#557C5C'
-					},
-					{
-						value: 7,
-						color: '#44537F'
-					},
-					{
-						value: 6,
-						color: '#637392'
-					},
-					{
-						value: 3,
-						color: '#7C754D'
-					},
-					{
-						value: 2,
-						color: '#2E7A64'
-					},
-					{
-						value: 1,
-						color: '#95659A'
-					},
-			  ]
-		  }
-	  }
+
+    const complete = results => {
+      let fields = results.meta.fields
+      if (fields.length !== 2) throw new Error('TreeMap only takes two fields')
+      let dataSource = results.data.filter(d => d && d[fields[0]]).map(d => {
+        let k = fields[0]
+        d[k] = d[k] + '<br>[' + d[fields[1]] + ']'
+        return d
+      })
+      let keys = dataSource.map(d => d[fields[0]])
+      console.log(keys)
+      
+      const colorMapping = distinctColors({count: dataSource.length}).map((color, i) => {
+        return { value: keys[i], color: color.hex() }
+      })
+
+      this.$data.treemap = {
+        height: '350px',
+			  dataSource,
+	    	weightValuePath: fields[1],
+			  equalColorValuePath: fields[0],
+		  	leafItemSettings: {
+	  			labelPath: fields[0],
+          colorMapping
+        },
+        tooltipSettings: {
+          visible: true,
+          format: '${' + fields[0] + '} : ${' + fields[1] + '}'
+        }
+      }
+    }
+
+    const Papa = (await import('papaparse')).default
+    Papa.parse(this.csv, { download: true, header: true, complete })
   }
 }
 </script>
