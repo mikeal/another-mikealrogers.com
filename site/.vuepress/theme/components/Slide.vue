@@ -240,6 +240,15 @@ function flattern (items, res) {
 </script>
 
 <style>
+
+/* Palette 
+  #4deeea - light blue
+  #74ee15 - green
+  #ffe700 - yellow 
+  #f000ff - pink
+  #001eff - dark blue
+*/
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 main.slide {
   position: absolute;
   top: 0;
@@ -252,19 +261,29 @@ section.slide img {
   max-width: 100%;
 }
 
+element {
+  --pink: #f000ff
+}
+
 section.slide {
-  background:black;
-  color: snow;
+  background: #4deeea;
+  color: #f000ff;
   width: 100vw;
   overflow-x: hidden;
   height: 100vh;
   min-height: 100vh;
   display: table;
-  font-weight: 300;
-  font-size: 60px;
-  font-family: Courier Prime Sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Abril Fatface', cursive;
   text-align: center;
-  text-shadow: 1px 1px #333;
+  text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+}
+
+section.slide p {
+  font-size: 5vw;
 }
 
 .invert {
@@ -272,13 +291,30 @@ section.slide {
   color: black;
 }
 
-section.slide code {
-  font-family: "Envy Code R", "Courier New", Courier, monospace;
+div.extra-class {
+  color: white;
+  text-shadow: none;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+section.slide pre {
+  font-size: 2.5vw; 
+  text-shadow: none;
+  font-color: white;
 }
 
 section.slide a {
   text-decoration: none;
   color: white;
+}
+
+section.slide ul {
+  text-align: left;
+}
+section.slide ul li {
+  font-size: 2.5vw;
+  margin-left: 10vw;
 }
 
 .align-middle {

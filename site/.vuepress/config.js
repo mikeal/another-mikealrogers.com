@@ -7,6 +7,15 @@ module.exports = {
   themeConfig: {
     search: false
   },
+  head: [
+    ['viewport', 
+      { 'width': 'device-width', 
+        'initial-scale': '1.0',
+        'maximum-scale': '1.0', 
+        'user-scalable': 'no'
+      }
+    ]
+  ],
   extendMarkdown: md => {
     const render = (tokens, idx) => {
       if (tokens[idx].nesting === 1) {
