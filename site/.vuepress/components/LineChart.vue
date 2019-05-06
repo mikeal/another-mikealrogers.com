@@ -7,23 +7,6 @@
 </template>
 
 <script>
-const createSeries = (records, limit) => {
-  let [x, name, y] = Object.keys(records[0])
-  let lines = {}
-  records.forEach(record => {
-    let line = record[name]
-    if (!lines[line]) lines[line] = { name: line, data: [] }
-    lines[line].data.push({ x: record[x], y: record[y] })
-  })
-  lines = Object.values(lines)
-  if (limit) {
-    lines.forEach(line => {
-      line.data = line.data.splice(-limit)
-    })
-  }
-  return lines
-}
-
 export default {
   props: [ 'csv' ],
   data () {
@@ -59,6 +42,18 @@ export default {
     }
   },
   mounted: async function () {
+    const [ Vue, Line, getcsv ] = await Promise.all([
+      import('vue').then(r => r.default),
+      import('vue-chartjs').then(r => r.Line),
+      import('./lib/getcsv').then(r => r.default)
+    ])
+    Vue.use(Line)
+    Vue.
+
+    let results = await getcsv(this.csv)
+
+    import { Line } from 'vue-chartjs'
+    
     let VueApexCharts = (await import('vue-apexcharts')).default
     let Vue = (await import('vue')).default
     let parse = (await import('papaparse')).parse

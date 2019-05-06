@@ -8,4 +8,6 @@ First sentence.
 
 <TreeMap csv="/2018-module-counts/last-quarter-additions.csv" />
 
+<LineChart csv="/2018-module-counts/quarterly.csv" />
+
 After chart.
