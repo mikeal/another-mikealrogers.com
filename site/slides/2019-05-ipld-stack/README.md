@@ -69,7 +69,7 @@ Reading data 😚
 ```javascript
 let reader = await block.reader()
 
-let value = await reader.get('/some/path')
+let value = reader.get('/some/path')
 
 for (let [path, link] of reader.links()) {
   console.log(path, link.toBaseEncodedString())
@@ -122,14 +122,17 @@ let buffer = block.encodeMaybeSync()
 :::
 
 ::: slide
-Advanced: get-codeci 🤫
+Advanced: get-codec 🤫
 ```javascript
 const getCodec = require('@ipld/get-codec') // soon
 const { getCodec } = require('@ipld/stack') // now
 let codec = await getCodec('dag-json')
 let buffer = codec.encode({hello: 'world'})
 let obj = codec.decode(buffer)
+// obj == {hello: 'world'}
 let block = Block.encoder(obj, 'dag-json')
+// Note: codec's reader interface takes a block instance
+// so that it can benefit from caching and other optimizations
 let reader = codec.reader(block)
 ```
 :::
