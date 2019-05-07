@@ -131,6 +131,7 @@ let codec = await getCodec('dag-json')
 let buffer = codec.encode({hello: 'world'})
 let obj = codec.decode(buffer)
 // obj == {hello: 'world'}
+
 let block = Block.encoder(obj, 'dag-json')
 // Note: codec's reader interface takes a block instance
 // so that it can benefit from caching and other optimizations
