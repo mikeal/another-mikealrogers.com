@@ -126,6 +126,7 @@ Advanced: get-codec 🤫
 ```javascript
 const getCodec = require('@ipld/get-codec') // soon
 const { getCodec } = require('@ipld/stack') // now
+
 let codec = await getCodec('dag-json')
 let buffer = codec.encode({hello: 'world'})
 let obj = codec.decode(buffer)
@@ -142,7 +143,7 @@ Advanced: codec-interface 😇
 ```javascript
 const inter = require('@ipld/codec-interface') // now!
 
-cnst encode = async obj => new Buffer()
+const encode = async obj => new Buffer()
 const decode = async buffer => { /* native object */ }
 // OR, sync
 const encode = obj => new Buffer()
